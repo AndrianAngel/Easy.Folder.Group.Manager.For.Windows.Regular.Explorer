@@ -1,4 +1,4 @@
-📁 Easy Folder Group Manager - Complete Feature Documentation
+e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 🎯 Project Overview
 
@@ -111,7 +111,7 @@
 
 🖼️ A6 - Edit Group Dialog
 
-[A6 Settings](Images/A6.png)
+![A6 Settings](Images/A6.png)
 
 📋 Description:
 
@@ -130,7 +130,7 @@
 
 🖼️ A7 - Colors Presets and Custom HEX Colors
 
-[A7 Settings](Images/A7.png)
+![A7 Settings](Images/A7.png)
 
 📋 Description:
 
