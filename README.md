@@ -1,20 +1,20 @@
-e📁 Easy Folder Group Manager - Complete Feature Documentation
+## 📁 Easy Folder Group Manager - Complete Feature Documentation
 
-🎯 Project Overview
+## 🎯 Project Overview
 
-🚀 Easy Folder Group Manager is a powerful Windows automation tool that lets you organize, launch, and manage folder groups with advanced window manipulation, scheduling, and customization features. Perfect for productivity enthusiasts, developers, and power users who work with multiple folders regularly.
+- 🚀 Easy Folder Group Manager is a powerful Windows automation tool that lets you organize, launch, and manage folder groups with advanced window manipulation, scheduling, and customization features. Perfect for productivity enthusiasts, developers, and power users who work with multiple folders regularly.
 
-✨ No Installation Required - Standalone EXE application, ready to run immediately!
+- ✨ No Installation Required - Standalone EXE application, ready to run immediately!
 
 ---
 
-📸 SCREENSHOTS & FEATURE BREAKDOWN
+## 📸 SCREENSHOTS & FEATURE BREAKDOWN
 
-🖼️ A1 - Main Setting Dashboard
+## 🖼️ A1 - Main Setting Dashboard
 
 ![A1 Settings](Images/A1.png)
 
-📋 Description:
+## 📋 Description:
 
 
 - Group Overview Panel: Displays all 8 configurable groups with clear status indicators
@@ -35,11 +35,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A2 - Folder Group Behaviour
+## 🖼️ A2 - Folder Group Behaviour
 
 ![A2 Settings](Images/A2.png)
 
-📋 Description:
+## 📋 Description:
 
 - Per-Group Behavior Customization: Individual settings for each of 8 groups
 - Stack Folders 📚: Cascade windows with offset positioning (30px increments)
@@ -50,11 +50,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A3 - Advanced Options - Display and Log
+## 🖼️ A3 - Advanced Options - Display and Log
 
 ![A3 Settings](Images/A3.png)
 
-📋 Description:
+## 📋 Description:
 
 - Dual Display Modes (2 folders only):
   - Vertical Split ➗: Side-by-side vertical arrangement
@@ -65,11 +65,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A4 - Scheduling - Timer Colors
+## 🖼️ A4 - Scheduling - Timer Colors
 
 ![A4 Settings](Images/A4.png)
 
-📋 Description:
+## 📋 Description:
 
 - Dual Timer System: Minutes (left) and Seconds (right) columns
 - Color Customization 🎨: Individual colors for 32 timers
@@ -85,11 +85,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A5 - Additional Settings
+## 🖼️ A5 - Additional Settings
 
 ![A5 Settings](Images/A5.png)
 
-📋 Description:
+## 📋 Description:
 
 - Hotkey Configuration ⌨️:
   - Quick Launcher Hotkey (default: Shift+F12)
@@ -109,11 +109,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A6 - Edit Group Dialog
+## 🖼️ A6 - Edit Group Dialog
 
 ![A6 Settings](Images/A6.png)
 
-📋 Description:
+## 📋 Description:
 
 - Dark Theme Interface: Consistent with main application
 - Group Editing ✏️:
@@ -128,11 +128,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A7 - Colors Presets and Custom HEX Colors
+## 🖼️ A7 - Colors Presets and Custom HEX Colors
 
 ![A7 Settings](Images/A7.png)
 
-📋 Description:
+## 📋 Description:
 
 - Color Picker Dialog: Dedicated color selection interface
 - Organized Layout: 4×5 grid of 20 preset colors
@@ -143,11 +143,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A8 - Quick Group Launcher
+## 🖼️ A8 - Quick Group Launcher
 
 ![A8 Settings](Images/A8.png)
 
-📋 Description:
+## 📋 Description:
 
 - Instant Access ⚡: Hotkey-activated (default: Shift+F12)
 - Clean Interface: Titlebar optional, dark theme
@@ -157,11 +157,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🖼️ A9 - 32-Timer Control Panel
+## 🖼️ A9 - 32-Timer Control Panel
 
 ![A9 Settings](Images/A9.png)
 
-📋 Description:
+## 📋 Description:
 
 - Comprehensive Control 🎛️: All 32 timers in one interface
 - Organized Layout: Left column (minutes), Right column (seconds)
@@ -180,13 +180,13 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🎥 DEMONSTRATIONS & WORKFLOWS
+## 🎥 DEMONSTRATIONS & WORKFLOWS
 
-🎬 E1 - Stack + Minimize + Resize via Quick Launcher
+## 🎬 E1 - Stack + Minimize + Resize via Quick Launcher
 
 ![E1.gif Settings](Images/E1.gif)
 
-🔧 Workflow:
+## 🔧 Workflow:
 
 1. Activate Quick Launcher via hotkey
 2. Select desired group
@@ -198,11 +198,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🎬 E2 - Stack + Resize via Hotkey
+## 🎬 E2 - Stack + Resize via Hotkey
 
 ![E2.gif Settings](Images/E2.gif)
 
-🔧 Workflow:
+## 🔧 Workflow:
 
 1. Press assigned group hotkey
 2. Instant window arrangement:
@@ -213,11 +213,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🎬 E3 - Dual Display Modes via Quick Launcher
+## 🎬 E3 - Dual Display Modes via Quick Launcher
 
 ![E3.gif Settings](Images/E3.gif)
 
-🔧 Workflow:
+## 🔧 Workflow:
 
 1. Launch 2-folder group via Quick Launcher
 2. Automatic screen splitting:
@@ -228,11 +228,11 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🎬 E4 - Timer Automation
+## 🎬 E4 - Timer Automation
 
 ![E4.gif Settings](Images/E4.gif)
 
-🔧 Workflow:
+## 🔧 Workflow:
 
 1. Open Timer Control Panel
 2. Set "Open After" timer for Group 1 (10 seconds)
@@ -245,9 +245,9 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-📦 DOWNLOAD & INSTALLATION
+## 📦 DOWNLOAD & INSTALLATION
 
-🚀 Zero-Installation Setup
+## 🚀 Zero-Installation Setup
 
 1. Download Options:
    · 📥 EasyFolderGroupManager.exe (Single executable)
@@ -258,7 +258,7 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
    · No system modifications
    · Portable - run from any location (USB, cloud, desktop)
 
-🔒 Security Note
+## 🔒 Security Note
 
 · ✅ Standalone Application: No dependencies required
 · ✅ No Admin Rights Needed: Runs with standard user permissions
@@ -267,7 +267,7 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-⚙️ SYSTEM REQUIREMENTS
+## ⚙️ SYSTEM REQUIREMENTS
 
 - Requirement Specification
 - Operating System Windows 7, 8, 10, 11 (32-bit or 64-bit)
@@ -278,9 +278,9 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-🛠️ TECHNICAL FEATURES
+## 🛠️ TECHNICAL FEATURES
 
-📊 Core System
+## 📊 Core System
 
 - 8 Configurable Groups: A-H with individual setting
 - 32 Independent Timers: 16 minutes + 16 seconds
@@ -288,28 +288,28 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 - Dark Theme UI: Consistent visual experience
 - Tray Integration: System tray menu with quick access
 
-🎮 Control Methods
+## 🎮 Control Methods
 
 1. Hotkeys: Individual group shortcuts
 2. Quick Launcher: Visual group selector
 3. Timer Automation: Scheduled open/close
 4. Tray Menu: Basic controls
 
-🔧 Window Management
+## 🔧 Window Management
 
 · Stack Algorithm: Intelligent cascading with offsets
 · Size Enforcement: Consistent window dimensions
 · Monitor Awareness: Adapts to primary display
 · State Management: Minimize/restore tracking
 
-🎨 Customization
+## 🎨 Customization
 
 · Color System: 20 presets + unlimited custom HEX
 · Font Control: Bold/normal timer display
 · Hotkey Reassignment: Fully customizable shortcuts
 · Titlebar Toggle: Clean mode options
 
-📈 Productivity Features
+## 📈 Productivity Features
 
 · History Logging: Track all operations
 · Pause/Resume: Temporary group deactivation
@@ -318,9 +318,9 @@ e📁 Easy Folder Group Manager - Complete Feature Documentation
 
 ---
 
-📋 QUICK START GUIDE
+## 📋 QUICK START GUIDE
 
-First Run Setup ⚡
+## First Run Setup ⚡
 
 1. Download the EXE file
 2. Run the application (tray icon appears)
@@ -329,7 +329,7 @@ First Run Setup ⚡
 5. Assign hotkey (e.g., Ctrl+Alt+F1)
 6. Test with your new hotkey!
 
-Recommended Initial Setup
+## Recommended Initial Setup
 
 ```yaml
 Group A: "Daily Projects"
@@ -345,9 +345,9 @@ Group B: "Quick Reference"
 
 ---
 
-📄 LICENSE & USAGE TERMS
+## 📄 LICENSE & USAGE TERMS
 
-📜 License: Non-Commercial Open Source
+## 📜 License: Non-Commercial Open Source
 
 ```
 Easy Folder Group Manager
@@ -371,9 +371,9 @@ You may NOT:
 - Remove copyright notices
 ```
 
-🤝 Attribution
+## 🤝 Attribution
 
-If you share or recommend this software, please credit:
+. If you share or recommend this software, please credit:
 
 ```
 Easy Folder Group Manager by AndrianAngel (GitHub)
@@ -382,9 +382,9 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 ---
 
-🚀 PRO TIPS & BEST PRACTICES
+## 🚀 PRO TIPS & BEST PRACTICES
 
-💡 Productivity Boosters
+## 💡 Productivity Boosters
 
 1. Color Coding System:
    · Red timers for urgent tasks
@@ -399,7 +399,7 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
    · Open Project → 5 min work → Auto-close distraction folders
    · Morning routine: Sequential opens with timed intervals
 
-🔄 Workflow Examples
+## 🔄 Workflow Examples
 
 - Scenario Configuration
 - Web Development Group A: Code, Assets, Docs (Stacked)
@@ -409,9 +409,9 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 ---
 
-🐛 TROUBLESHOOTING
+## 🐛 TROUBLESHOOTING
 
-❓ Common Issues & Solutions
+## ❓ Common Issues & Solutions
 
 - Issue Solution
 - Hotkey not working Check for conflicts with other software; try Ctrl+Alt+[Key]
@@ -420,9 +420,9 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 - Window positioning odd Disable "Dual Display" if not exactly 2 folders
 - EXE blocked by Windows Right-click → Properties → "Unblock" (if present)
 
-🛡️ Windows Defender/SmartScreen
+## 🛡️ Windows Defender/SmartScreen
 
-If Windows blocks the EXE:
+- If Windows blocks the EXE:
 
 1. Click "More info"
 2. Click "Run anyway"
@@ -430,20 +430,9 @@ If Windows blocks the EXE:
 
 ---
 
-🔮 FUTURE ROADMAP
+## 🤝 Contribution Opportunities
 
-🚧 Planned Enhancements
-
-· Multi-monitor support 🖥️🖥️
-· Cloud sync ☁️ for configurations
-· Advanced timer rules ⏰ (recurring, conditional)
-· Export/import settings 📤📥
-· Plugin system 🔌 for extended functionality
-· Touch screen optimization 👆
-
-🤝 Contribution Opportunities
-
-While source code isn't included in the EXE release, suggestions are welcome for:
+- While source code isn't included in the EXE release, suggestions are welcome for:
 
 · UI/UX improvements
 · Feature requests
@@ -452,15 +441,15 @@ While source code isn't included in the EXE release, suggestions are welcome for
 
 ---
 
-📞 SUPPORT & COMMUNITY
+## 📞 SUPPORT & COMMUNITY
 
-Getting Help
+- Getting Help
 
 1. GitHub Issues: Report bugs or request features
 2. Documentation: Check this README first
 3. Community: Share tips with other users
 
-Before Asking for Help
+- Before Asking for Help
 
 · ✅ Check if group is "PAUSED"
 · ✅ Verify folder paths exist
@@ -469,16 +458,16 @@ Before Asking for Help
 
 ---
 
-📊 PERFORMANCE & RESOURCE USAGE
+## 📊 PERFORMANCE & RESOURCE USAGE
 
-Lightweight Operation
+- Lightweight Operation
 
 · Memory: ~10-15 MB when idle
 · CPU: Negligible (0% when not active)
 · Disk: Minimal (INI config + log files)
 · Startup: Immediate (no splash screen)
 
-Background Operation
+- Background Operation
 
 · Runs in system tray
 · Hotkeys always active
@@ -487,9 +476,9 @@ Background Operation
 
 ---
 
-🌟 WHY CHOOSE THIS TOOL?
+## 🌟 WHY CHOOSE THIS TOOL?
 
-✅ Advantages Over Alternatives
+## ✅ Advantages Over Alternatives
 
 - Feature Easy Folder Group Manager Windows Native Other Tools
 - No Installation ✅ Standalone EXE ❌ OS-bound ⚠️ Often requires setup
@@ -500,30 +489,30 @@ Background Operation
 
 ---
 
-🎯 USE CASES
+## 🎯 USE CASES
 
-👨‍💻 Developers
+## 👨‍💻 Developers
 
 · Quick project switching
 · Source code organization
 · Documentation referencing
 · Build output monitoring
 
-👨‍🎓 Students
+## 👨‍🎓 Students
 
 · Course material management
 · Research paper organization
 · Assignment folder grouping
 · Study schedule automation
 
-👨‍💼 Professionals
+## 👨‍💼 Professionals
 
 · Project file organization
 · Client folder management
 · Report generation workflows
 · Daily routine automation
 
-🎨 Creatives
+## 🎨 Creatives
 
 · Asset library access
 · Project template organization
@@ -532,25 +521,16 @@ Background Operation
 
 ---
 
-📈 SUCCESS STORIES
+## 📈 SUCCESS STORIES
 
-"Saved me 30 minutes daily organizing project folders!" - Software Developer
-"Perfect for my research workflow with timed literature reviews" - PhD Student
-"The color-coded timers help prioritize my tasks visually" - Project Manager
-"Running from USB on multiple workstations - brilliant!" - IT Consultant
+. "Saved me 30 minutes daily organizing project folders!" - Software Developer
+. "Perfect for my research workflow with timed literature reviews" - PhD Student
+. "The color-coded timers help prioritize my tasks visually" - Project Manager
+. "Running from USB on multiple workstations - brilliant!" - IT Consultant
 
 ---
 
-🔄 UPDATE PROCESS
-
-Checking for Updates
-
-1. Visit the GitHub repository
-2. Download new EXE version
-3. Replace old file (settings preserved)
-4. Restart application
-
-Settings Migration
+## 🔄 Settings Migration
 
 · INI files are forward-compatible
 · No data loss between versions
@@ -558,9 +538,9 @@ Settings Migration
 
 ---
 
-⭐ SHOW YOUR SUPPORT
+## ⭐ SHOW YOUR SUPPORT
 
-If this tool improves your workflow:
+- If this tool improves your workflow:
 
 1. Star the GitHub repository ⭐
 2. Share with colleagues and friends 🔗
@@ -569,22 +549,22 @@ If this tool improves your workflow:
 
 ---
 
-🎊 FINAL NOTES
+## 🎊 FINAL NOTES
 
-Remember These Shortcuts:
+- Remember These Shortcuts:
 
 · Shift+F12 = Quick Launcher 🚀
 · Ctrl+F11 = Toggle Settings ⚙️
 · Ctrl+F10 = Timer Panel ⏱️
 · Right-click tray icon = Quick menu 📋
 
-Pro Tip:
+- Pro Tip:
 
-Start with one group, master it, then expand. The power is in customization!
+- Start with one group, master it, then expand. The power is in customization!
 
 ---
 
-Happy organizing! May your folders always be where you need them! 📁✨
+- Happy organizing! May your folders always be where you need them! 📁✨
 
 ---
 
