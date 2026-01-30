@@ -16,21 +16,22 @@
 
 📋 Description:
 
-· Group Overview Panel: Displays all 8 configurable groups with clear status indicators
-· Visual Status Coding:
-  · 🟢 ACTIVE (Green): Group has hotkey assigned
-  · 🔴 PAUSED (Red): Group temporarily disabled
-  · ⚪ NULL (White): No hotkey configured
-· Smart Color Coding:
-  · 🔵 Blue Group Names: Custom names (e.g., "Project Alpha")
-  · ⚪ White Group Names: Default names (e.g., "GROUP A")
-  · 🎀 Pink Folder Count: Highlights groups with folders
-  · 💛 Yellow Hotkeys: Active keyboard shortcuts
-· Action Controls:
-  · ⏸️ Pause/Resume Toggle: Instant group activation control
-  · ✏️ Edit Button: Modify group configuration
-  · 🔄 Default Button: Reset group to factory settings
-· Copyright Notice: Clear attribution with GitHub link
+
+- Group Overview Panel: Displays all 8 configurable groups with clear status indicators
+- Visual Status Coding:
+  - 🟢 ACTIVE (Green): Group has hotkey assigned
+  - 🔴 PAUSED (Red): Group temporarily disabled
+  - ⚪ NULL (White): No hotkey configured
+- Smart Color Coding:
+  - 🔵 Blue Group Names: Custom names (e.g., "Project Alpha")
+  - ⚪ White Group Names: Default names (e.g., "GROUP A")
+  - 🎀 Pink Folder Count: Highlights groups with folders
+  - 💛 Yellow Hotkeys: Active keyboard shortcuts
+- Action Controls:
+  - ⏸️ Pause/Resume Toggle: Instant group activation control
+  - ✏️ Edit Button: Modify group configuration
+  - 🔄 Default Button: Reset group to factory settings
+- Copyright Notice: Clear attribution with GitHub link
 
 ---
 
@@ -40,12 +41,12 @@
 
 📋 Description:
 
-· Per-Group Behavior Customization: Individual settings for each of 8 groups
-· Stack Folders 📚: Cascade windows with offset positioning (30px increments)
-· Minimize All 📥: Open all folders in minimized state
-· Choose Specific Size 📐: Custom width/height for all windows in group
-· Combination Flexibility: Mix and match behaviors (Stack + Minimize + Resize)
-· Visual Group Identification: Each section clearly labeled with group name
+- Per-Group Behavior Customization: Individual settings for each of 8 groups
+- Stack Folders 📚: Cascade windows with offset positioning (30px increments)
+- Minimize All 📥: Open all folders in minimized state
+- Choose Specific Size 📐: Custom width/height for all windows in group
+- Combination Flexibility: Mix and match behaviors (Stack + Minimize + Resize)
+- Visual Group Identification: Each section clearly labeled with group name
 
 ---
 
@@ -55,12 +56,12 @@
 
 📋 Description:
 
-· Dual Display Modes (2 folders only):
-  · Vertical Split ➗: Side-by-side vertical arrangement
-  · Horizontal Split ➖: Top-bottom arrangement
-· Exclusive Selection: Choose one dual display mode (cannot use both)
-· History Logging 📝: TXT file recording of all group openings with timestamps
-· Important Note: Clear warning about dual display limitations
+- Dual Display Modes (2 folders only):
+  - Vertical Split ➗: Side-by-side vertical arrangement
+  - Horizontal Split ➖: Top-bottom arrangement
+- Exclusive Selection: Choose one dual display mode (cannot use both)
+- History Logging 📝: TXT file recording of all group openings with timestamps
+- Important Note: Clear warning about dual display limitations
 
 ---
 
@@ -70,17 +71,17 @@
 
 📋 Description:
 
-· Dual Timer System: Minutes (left) and Seconds (right) columns
-· Color Customization 🎨: Individual colors for 32 timers
-· Visual Color Preview: Live color swatches with named labels
-· Timer Types:
-  · Open After: Schedule automatic folder group opening
-  · Close After: Schedule automatic folder group closing
-· Color Management:
-  · Preset color palette (20 named colors)
-  · Custom HEX color input
-  · Color name display with matching text color
-  · "Color" button for easy palette selection
+- Dual Timer System: Minutes (left) and Seconds (right) columns
+- Color Customization 🎨: Individual colors for 32 timers
+- Visual Color Preview: Live color swatches with named labels
+- Timer Types:
+  - Open After: Schedule automatic folder group opening
+  - Close After: Schedule automatic folder group closing
+- Color Management:
+  - Preset color palette (20 named colors)
+  - Custom HEX color input
+  - Color name display with matching text color
+  - "Color" button for easy palette selection
 
 ---
 
@@ -90,21 +91,21 @@
 
 📋 Description:
 
-· Hotkey Configuration ⌨️:
-  · Quick Launcher Hotkey (default: Shift+F12)
-  · Toggle Settings Hotkey (default: Ctrl+F11)
-  · Quick Timer Hotkey (default: Ctrl+F10)
-· Titlebar Customization:
-  · Remove titlebar from Quick Launcher
-  · Remove titlebar from Settings window
-  · Remove titlebar from Timer panel
-· Timer Options ⏱️:
-  · Always on Top mode
-  · Bold font styling
-· Utility Features:
-  · Open Logs Folder button
-  · Hotkey format examples
-  · Save reminder note
+- Hotkey Configuration ⌨️:
+  - Quick Launcher Hotkey (default: Shift+F12)
+  - Toggle Settings Hotkey (default: Ctrl+F11)
+  - Quick Timer Hotkey (default: Ctrl+F10)
+- Titlebar Customization:
+  - Remove titlebar from Quick Launcher
+  - Remove titlebar from Settings window
+  - Remove titlebar from Timer panel
+- Timer Options ⏱️:
+  - Always on Top mode
+  - Bold font styling
+- Utility Features:
+  - Open Logs Folder button
+  - Hotkey format examples
+  - Save reminder note
 
 ---
 
@@ -114,16 +115,16 @@
 
 📋 Description:
 
-· Dark Theme Interface: Consistent with main application
-· Group Editing ✏️:
-  · Name modification
-  · Hotkey assignment/reassignment
-  · Folder list management
-· Folder Management Tools:
-  · Browse Button 📁: File explorer integration
-  · PASTE Button 📋: Clipboard folder path import
-  · Multi-line folder input
-  · Clear Save/Cancel controls
+- Dark Theme Interface: Consistent with main application
+- Group Editing ✏️:
+  - Name modification
+  - Hotkey assignment/reassignment
+  - Folder list management
+- Folder Management Tools:
+  - Browse Button 📁: File explorer integration
+  - PASTE Button 📋: Clipboard folder path import
+  - Multi-line folder input
+  - Clear Save/Cancel controls
 
 ---
 
@@ -133,12 +134,12 @@
 
 📋 Description:
 
-· Color Picker Dialog: Dedicated color selection interface
-· Organized Layout: 4×5 grid of 20 preset colors
-· Named Color System: Each color has descriptive name
-· Quick Selection: Click colored text "buttons"
-· Custom HEX Support #️⃣: 6-digit RRGGBB input field
-· Visual Feedback: Immediate color application
+- Color Picker Dialog: Dedicated color selection interface
+- Organized Layout: 4×5 grid of 20 preset colors
+- Named Color System: Each color has descriptive name
+- Quick Selection: Click colored text "buttons"
+- Custom HEX Support #️⃣: 6-digit RRGGBB input field
+- Visual Feedback: Immediate color application
 
 ---
 
@@ -148,11 +149,11 @@
 
 📋 Description:
 
-· Instant Access ⚡: Hotkey-activated (default: Shift+F12)
-· Clean Interface: Titlebar optional, dark theme
-· Dynamic Listing: Shows only active, non-paused groups
-· One-Click Launch: Direct group opening
-· Auto-Close: Launcher disappears after selection
+- Instant Access ⚡: Hotkey-activated (default: Shift+F12)
+- Clean Interface: Titlebar optional, dark theme
+- Dynamic Listing: Shows only active, non-paused groups
+- One-Click Launch: Direct group opening
+- Auto-Close: Launcher disappears after selection
 
 ---
 
@@ -162,20 +163,20 @@
 
 📋 Description:
 
-· Comprehensive Control 🎛️: All 32 timers in one interface
-· Organized Layout: Left column (minutes), Right column (seconds)
-· Individual Timer Controls:
-  · ▶️ Start: Begin countdown
-  · ⏸️ Pause: Temporarily stop
-  · 🔄 Resume: Continue from pause
-  · 🔃 Reset: Restore to default time
-· Global Controls 🌐:
-  · Start All / Pause All / Resume All / Reset All
-· Smart Features:
-  · Double-click time display to edit
-  · Color-coded timers (from settings)
-  · Real-time countdown display
-  · Bold font option
+- Comprehensive Control 🎛️: All 32 timers in one interface
+- Organized Layout: Left column (minutes), Right column (seconds)
+- Individual Timer Controls:
+  - ▶️ Start: Begin countdown
+  - ⏸️ Pause: Temporarily stop
+  - 🔄 Resume: Continue from pause
+  - 🔃 Reset: Restore to default time
+- Global Controls 🌐:
+  - Start All / Pause All / Resume All / Reset All
+- Smart Features:
+  - Double-click time display to edit
+  - Color-coded timers (from settings)
+  - Real-time countdown display
+  - Bold font option
 
 ---
 
@@ -268,12 +269,12 @@
 
 ⚙️ SYSTEM REQUIREMENTS
 
-Requirement Specification
-Operating System Windows 7, 8, 10, 11 (32-bit or 64-bit)
-RAM 512 MB minimum
-Storage 5 MB for application + configuration files
-Permissions Standard user account (no admin needed)
-Additional Software None required - completely standalone
+- Requirement Specification
+- Operating System Windows 7, 8, 10, 11 (32-bit or 64-bit)
+- RAM 512 MB minimum
+- Storage 5 MB for application + configuration files
+- Permissions Standard user account (no admin needed)
+- Additional Software None required - completely standalone
 
 ---
 
@@ -281,11 +282,11 @@ Additional Software None required - completely standalone
 
 📊 Core System
 
-· 8 Configurable Groups: A-H with individual settings
-· 32 Independent Timers: 16 minutes + 16 seconds
-· INI Configuration: Persistent settings storage
-· Dark Theme UI: Consistent visual experience
-· Tray Integration: System tray menu with quick access
+- 8 Configurable Groups: A-H with individual setting
+- 32 Independent Timers: 16 minutes + 16 seconds
+- INI Configuration: Persistent settings storage
+- Dark Theme UI: Consistent visual experience
+- Tray Integration: System tray menu with quick access
 
 🎮 Control Methods
 
@@ -400,11 +401,11 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 🔄 Workflow Examples
 
-Scenario Configuration
-Web Development Group A: Code, Assets, Docs (Stacked)
-Research Project Group B: PDFs, Notes, Data (Timed open)
-Daily Review Group C: Reports, Analytics (Dual monitor)
-Backup Process Group D: Source, Backup, Logs (Auto-close)
+- Scenario Configuration
+- Web Development Group A: Code, Assets, Docs (Stacked)
+- Research Project Group B: PDFs, Notes, Data (Timed open)
+- Daily Review Group C: Reports, Analytics (Dual monitor)
+- Backup Process Group D: Source, Backup, Logs (Auto-close)
 
 ---
 
@@ -412,12 +413,12 @@ Backup Process Group D: Source, Backup, Logs (Auto-close)
 
 ❓ Common Issues & Solutions
 
-Issue Solution
-Hotkey not working Check for conflicts with other software; try Ctrl+Alt+[Key]
-Folder won't open Verify path exists; use Browse button to select
-Timer not triggering Ensure group is not "PAUSED"
-Window positioning odd Disable "Dual Display" if not exactly 2 folders
-EXE blocked by Windows Right-click → Properties → "Unblock" (if present)
+- Issue Solution
+- Hotkey not working Check for conflicts with other software; try Ctrl+Alt+[Key]
+- Folder won't open Verify path exists; use Browse button to select
+- Timer not triggering Ensure group is not "PAUSED"
+- Window positioning odd Disable "Dual Display" if not exactly 2 folders
+- EXE blocked by Windows Right-click → Properties → "Unblock" (if present)
 
 🛡️ Windows Defender/SmartScreen
 
@@ -490,12 +491,12 @@ Background Operation
 
 ✅ Advantages Over Alternatives
 
-Feature Easy Folder Group Manager Windows Native Other Tools
-No Installation ✅ Standalone EXE ❌ OS-bound ⚠️ Often requires setup
-Timer Automation ✅ 32 customizable timers ❌ None ⚠️ Limited or none
-Color Customization ✅ Full color control ❌ None ⚠️ Rarely available
-Zero Cost ✅ Completely free ✅ Included ⚠️ Often paid
-Portability ✅ Run from USB/cloud ❌ System-bound ⚠️ Installation needed
+- Feature Easy Folder Group Manager Windows Native Other Tools
+- No Installation ✅ Standalone EXE ❌ OS-bound ⚠️ Often requires setup
+- Timer Automation ✅ 32 customizable timers ❌ None ⚠️ Limited or none
+- Color Customization ✅ Full color control ❌ None ⚠️ Rarely available
+- Zero Cost ✅ Completely free ✅ Included ⚠️ Often paid
+- Portability ✅ Run from USB/cloud ❌ System-bound ⚠️ Installation needed
 
 ---
 
@@ -587,9 +588,9 @@ Happy organizing! May your folders always be where you need them! 📁✨
 
 ---
 
-Last Updated: January 2026
-Version: 1.0 (Standalone EXE)
-Platform: Windows 7/8/10/11
-License: Non-Commercial Open Source
+- Last Updated: January 2026
+- Version: 1.0 (Standalone EXE)
+- Platform: Windows 7/8/10/11
+- License: Non-Commercial Open Source
 
-Made with ❤️ by AndrianAngel
+- Made with ❤️ by AndrianAngel
