@@ -480,12 +480,13 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 ## ✅ Advantages Over Alternatives
 
-- Feature Easy Folder Group Manager Windows Native Other Tools
-- No Installation ✅ Standalone EXE ❌ OS-bound ⚠️ Often requires setup
-- Timer Automation ✅ 32 customizable timers ❌ None ⚠️ Limited or none
-- Color Customization ✅ Full color control ❌ None ⚠️ Rarely available
-- Zero Cost ✅ Completely free ✅ Included ⚠️ Often paid
-- Portability ✅ Run from USB/cloud ❌ System-bound ⚠️ Installation needed
+| Feature | Easy Folder Group Manager | Windows Native | Other Tools |
+|---------|--------------------------|----------------|-------------|
+| **No Installation** | ✅ Standalone EXE | ❌ OS-bound | ⚠️ Often requires setup |
+| **Timer Automation** | ✅ 32 customizable timers | ❌ None | ⚠️ Limited or none |
+| **Color Customization** | ✅ Full color control | ❌ None | ⚠️ Rarely available |
+| **Zero Cost** | ✅ Completely free | ✅ Included | ⚠️ Often paid |
+| **Portability** | ✅ Run from USB/cloud | ❌ System-bound | ⚠️ Installation needed |
 
 ---
 
