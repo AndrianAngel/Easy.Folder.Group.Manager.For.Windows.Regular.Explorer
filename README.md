@@ -260,10 +260,10 @@
 
 ## 🔒 Security Note
 
-· ✅ Standalone Application: No dependencies required
-· ✅ No Admin Rights Needed: Runs with standard user permissions
-· ✅ No Internet Connection Required: Fully offline functionality
-· ✅ Clean Operation: No background services or registry changes
+- ✅ Standalone Application: No dependencies required
+- ✅ No Admin Rights Needed: Runs with standard user permissions
+- ✅ No Internet Connection Required: Fully offline functionality
+- ✅ Clean Operation: No background services or registry changes
 
 ---
 
@@ -297,24 +297,24 @@
 
 ## 🔧 Window Management
 
-· Stack Algorithm: Intelligent cascading with offsets
-· Size Enforcement: Consistent window dimensions
-· Monitor Awareness: Adapts to primary display
-· State Management: Minimize/restore tracking
+- Stack Algorithm: Intelligent cascading with offsets
+- Size Enforcement: Consistent window dimensions
+- Monitor Awareness: Adapts to primary display
+- State Management: Minimize/restore tracking
 
 ## 🎨 Customization
 
-· Color System: 20 presets + unlimited custom HEX
-· Font Control: Bold/normal timer display
-· Hotkey Reassignment: Fully customizable shortcuts
-· Titlebar Toggle: Clean mode options
+- Color System: 20 presets + unlimited custom HEX
+- Font Control: Bold/normal timer display
+- Hotkey Reassignment: Fully customizable shortcuts
+- Titlebar Toggle: Clean mode options
 
 ## 📈 Productivity Features
 
-· History Logging: Track all operations
-· Pause/Resume: Temporary group deactivation
-· Default Reset: Quick configuration restoration
-· Error Handling: Robust path validation
+- History Logging: Track all operations
+- Pause/Resume: Temporary group deactivation
+- Default Reset: Quick configuration restoration
+- Error Handling: Robust path validation
 
 ---
 
@@ -434,10 +434,10 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 - While source code isn't included in the EXE release, suggestions are welcome for:
 
-· UI/UX improvements
-· Feature requests
-· Documentation updates
-· Translation/localization
+- UI/UX improvements
+- Feature requests
+- Documentation updates
+- Translation/localization
 
 ---
 
@@ -493,48 +493,48 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 ## 👨‍💻 Developers
 
-· Quick project switching
-· Source code organization
-· Documentation referencing
-· Build output monitoring
+- Quick project switching
+- Source code organization
+- Documentation referencing
+- Build output monitoring
 
 ## 👨‍🎓 Students
 
-· Course material management
-· Research paper organization
-· Assignment folder grouping
-· Study schedule automation
+- Course material management
+- Research paper organization
+- Assignment folder grouping
+- Study schedule automation
 
 ## 👨‍💼 Professionals
 
-· Project file organization
-· Client folder management
-· Report generation workflows
-· Daily routine automation
+- Project file organization
+- Client folder management
+- Report generation workflows
+- Daily routine automation
 
 ## 🎨 Creatives
 
-· Asset library access
-· Project template organization
-· Inspiration folder grouping
-· Work-in-progress tracking
+- Asset library access
+- Project template organization
+- Inspiration folder grouping
+- Work-in-progress tracking
 
 ---
 
 ## 📈 SUCCESS STORIES
 
-. "Saved me 30 minutes daily organizing project folders!" - Software Developer
-. "Perfect for my research workflow with timed literature reviews" - PhD Student
-. "The color-coded timers help prioritize my tasks visually" - Project Manager
-. "Running from USB on multiple workstations - brilliant!" - IT Consultant
+- "Saved me 30 minutes daily organizing project folders!" - Software Developer
+- "Perfect for my research workflow with timed literature reviews" - PhD Student
+- "The color-coded timers help prioritize my tasks visually" - Project Manager
+- "Running from USB on multiple workstations - brilliant!" - IT Consultant
 
 ---
 
 ## 🔄 Settings Migration
 
-· INI files are forward-compatible
-· No data loss between versions
-· Backups created automatically
+- INI files are forward-compatible
+- No data loss between versions
+- Backups created automatically
 
 ---
 
@@ -551,14 +551,14 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 ## 🎊 FINAL NOTES
 
-- Remember These Shortcuts:
+## 📣 Remember These Shortcuts:
 
-· Shift+F12 = Quick Launcher 🚀
-· Ctrl+F11 = Toggle Settings ⚙️
-· Ctrl+F10 = Timer Panel ⏱️
-· Right-click tray icon = Quick menu 📋
+- Shift+F12 = Quick Launcher 🚀
+- Ctrl+F11 = Toggle Settings ⚙️
+- Ctrl+F10 = Timer Panel ⏱️
+- Right-click tray icon = Quick menu 📋
 
-- Pro Tip:
+## 📌 Pro Tip:
 
 - Start with one group, master it, then expand. The power is in customization!
 
