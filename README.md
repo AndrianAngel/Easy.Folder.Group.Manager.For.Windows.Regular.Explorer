@@ -12,7 +12,7 @@
 
 🖼️ A1 - Main Setting Dashboard
 
-Images/A1.png
+![A1 Settings](Images/A1.png)
 
 📋 Description:
 
@@ -36,7 +36,7 @@ Images/A1.png
 
 🖼️ A2 - Folder Group Behaviour
 
-Images/A2.png
+![A2 Settings](Images/A2.png)
 
 📋 Description:
 
@@ -51,7 +51,7 @@ Images/A2.png
 
 🖼️ A3 - Advanced Options - Display and Log
 
-Images/A3.png
+![A3 Settings](Images/A3.png)
 
 📋 Description:
 
@@ -66,7 +66,7 @@ Images/A3.png
 
 🖼️ A4 - Scheduling - Timer Colors
 
-Images/A4.png
+![A4 Settings](Images/A4.png)
 
 📋 Description:
 
@@ -86,7 +86,7 @@ Images/A4.png
 
 🖼️ A5 - Additional Settings
 
-Images/A5.png
+![A5 Settings](Images/A5.png)
 
 📋 Description:
 
@@ -110,7 +110,7 @@ Images/A5.png
 
 🖼️ A6 - Edit Group Dialog
 
-Images/A6.png
+[A6 Settings](Images/A6.png)
 
 📋 Description:
 
@@ -129,7 +129,7 @@ Images/A6.png
 
 🖼️ A7 - Colors Presets and Custom HEX Colors
 
-Images/A7.png
+[A7 Settings](Images/A7.png)
 
 📋 Description:
 
@@ -144,7 +144,7 @@ Images/A7.png
 
 🖼️ A8 - Quick Group Launcher
 
-Images/A8.png
+![A8 Settings](Images/A8.png)
 
 📋 Description:
 
@@ -158,7 +158,7 @@ Images/A8.png
 
 🖼️ A9 - 32-Timer Control Panel
 
-Images/A9.png
+![A9 Settings](Images/A9.png)
 
 📋 Description:
 
@@ -183,7 +183,7 @@ Images/A9.png
 
 🎬 E1 - Stack + Minimize + Resize via Quick Launcher
 
-Images/E1.gif
+![E1.gif Settings](Images/E1.gif)
 
 🔧 Workflow:
 
@@ -199,7 +199,7 @@ Images/E1.gif
 
 🎬 E2 - Stack + Resize via Hotkey
 
-Images/E2.gif
+![E2.gif Settings](Images/E2.gif)
 
 🔧 Workflow:
 
@@ -214,7 +214,7 @@ Images/E2.gif
 
 🎬 E3 - Dual Display Modes via Quick Launcher
 
-Images/E3.gif
+![E3.gif Settings](Images/E3.gif)
 
 🔧 Workflow:
 
@@ -229,7 +229,7 @@ Images/E3.gif
 
 🎬 E4 - Timer Automation
 
-Images/E4.gif
+![E4.gif Settings](Images/E4.gif)
 
 🔧 Workflow:
 
