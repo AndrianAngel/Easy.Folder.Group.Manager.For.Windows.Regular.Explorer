@@ -228,6 +228,13 @@
 
 ---
 
+## ⚠️ NOTE:
+
+ -  Don't combine Dual Display Horizontal and Vertical with Stack/Minimize/Resize - those will override dual display
+ - 📌 Dual Display needs exactly 2 folders inside a group)
+   
+---
+
 ## 🎬 E4 - Timer Automation
 
 ![E4.gif Settings](Images/E4.gif)
