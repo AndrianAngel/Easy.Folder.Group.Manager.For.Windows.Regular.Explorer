@@ -191,9 +191,9 @@
 1. Activate Quick Launcher via hotkey
 2. Select desired group
 3. Windows automatically:
-   · Open in stacked cascade pattern
-   · Minimize to taskbar
-   · Apply predefined size dimensions
+   - Open in stacked cascade pattern
+   - Minimize to taskbar
+   - Apply predefined size dimensions
 4. Perfect for background folder management
 
 ---
@@ -206,9 +206,9 @@
 
 1. Press assigned group hotkey
 2. Instant window arrangement:
-   · Offset stacking (visual cascade)
-   · Uniform sizing (width/height)
-   · Maintains window visibility
+   - Offset stacking (visual cascade)
+   - Uniform sizing (width/height)
+   - Maintains window visibility
 3. Ideal for multi-folder comparison tasks
 
 ---
@@ -221,8 +221,8 @@
 
 1. Launch 2-folder group via Quick Launcher
 2. Automatic screen splitting:
-   · Dual Vertical: Perfect for code vs preview
-   · Dual Horizontal: Ideal for documentation vs application
+   - Dual Vertical: Perfect for code vs preview
+   - Dual Horizontal: Ideal for documentation vs application
 3. Maximizes screen real estate
 4. No manual window positioning needed
 
@@ -238,9 +238,9 @@
 2. Set "Open After" timer for Group 1 (10 seconds)
 3. Set "Close After" timer for Group 2 (10 seconds)
 4. Timers automatically:
-   · Open specified folder group
-   · Close specified folder group
-   · Provide visual countdown feedback
+   - Open specified folder group
+   - Close specified folder group
+   - Provide visual countdown feedback
 5. Perfect for timed workflows and automation
 
 ---
@@ -250,13 +250,13 @@
 ## 🚀 Zero-Installation Setup
 
 1. Download Options:
-   · 📥 EasyFolderGroupManager.exe (Single executable)
-   · 📦 EasyFolderGroupManager.zip (Zipped executable with documentation)
+   - 📥 EasyFolderGroupManager.exe (Single executable)
+   - 📦 EasyFolderGroupManager.zip (Zipped executable with documentation)
 2. Run Immediately:
-   · Double-click the EXE file
-   · No installation wizard
-   · No system modifications
-   · Portable - run from any location (USB, cloud, desktop)
+   - Double-click the EXE file
+   - No installation wizard
+   - No system modifications
+   - Portable - run from any location (USB, cloud, desktop)
 
 ## 🔒 Security Note
 
@@ -387,17 +387,17 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 ## 💡 Productivity Boosters
 
 1. Color Coding System:
-   · Red timers for urgent tasks
-   · Green timers for routine opens
-   · Blue for project-specific actions
+   - Red timers for urgent tasks
+   - Green timers for routine opens
+   - Blue for project-specific actions
 2. Hotkey Strategy:
    ```
    Ctrl+Alt+F1-F8: Main project groups  
    Ctrl+Shift+1-8: Quick access groups
    ```
 3. Timer Combinations:
-   · Open Project → 5 min work → Auto-close distraction folders
-   · Morning routine: Sequential opens with timed intervals
+   - Open Project → 5 min work → Auto-close distraction folders
+   - Morning routine: Sequential opens with timed intervals
 
 ## 🔄 Workflow Examples
 
@@ -451,28 +451,28 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 
 - Before Asking for Help
 
-· ✅ Check if group is "PAUSED"
-· ✅ Verify folder paths exist
-· ✅ Test with simple configuration first
-· ✅ Restart the application
+- ✅ Check if group is "PAUSED"
+- ✅ Verify folder paths exist
+- ✅ Test with simple configuration first
+- ✅ Restart the application
 
 ---
 
 ## 📊 PERFORMANCE & RESOURCE USAGE
 
-- Lightweight Operation
+## 📌 Lightweight Operation
 
-· Memory: ~10-15 MB when idle
-· CPU: Negligible (0% when not active)
-· Disk: Minimal (INI config + log files)
-· Startup: Immediate (no splash screen)
+- Memory: ~10-15 MB when idle
+- CPU: Negligible (0% when not active)
+- Disk: Minimal (INI config + log files)
+- Startup: Immediate (no splash screen)
 
-- Background Operation
+## ⭐ Background Operation
 
-· Runs in system tray
-· Hotkeys always active
-· Timers run in background
-· No performance impact on other applications
+- Runs in system tray
+- Hotkeys always active
+- Timers run in background
+- No performance impact on other applications
 
 ---
 
@@ -574,4 +574,4 @@ https://github.com/AndrianAngel/Easy-Folder-Group-Manager
 - Platform: Windows 7/8/10/11
 - License: Non-Commercial Open Source
 
-- Made with ❤️ by AndrianAngel
+## 🌿 Made with ❤️ by AndrianAngel 🌿
