@@ -194,7 +194,7 @@
    - Open in stacked cascade pattern
    - Minimize to taskbar
    - Apply predefined size dimensions
-4. Perfect for background folder management
+4.📜erfect for background folder management
 
 ---
 
@@ -228,10 +228,10 @@
 
 ---
 
-## ⚠️ NOTE:
+## ⚠️ NOTE 📜:
 
- -  Don't combine Dual Display Horizontal and Vertical with Stack/Minimize/Resize - those will override dual display
- - 📌 Dual Display needs exactly 2 folders inside a group)
+- 📌 Don't combine Dual Display Horizontal and Vertical with Stack/Minimize/Resize - those will override dual display
+- 📌 Dual Display needs exactly 2 folders inside a group
    
 ---
 
